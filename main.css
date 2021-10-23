@@ -37,7 +37,7 @@
 .content{
     height: 40vh;
     position: absolute;
-    top: 650px;
+    top: 500px;
     padding:0px 30px 10px 30px;
     line-height: 30px;
 }
@@ -73,7 +73,7 @@ p{
 }
 .btns{
     position: absolute;
-    top: 700px;
+    top: 600px;
     padding: 30px;
     margin-top: 10px;
 }
