@@ -5,7 +5,7 @@
 }
 .box{
     width: 50vw;
-    height: 50vh;
+    height: 70vh;
     background-color:hsl(207, 33%, 95%);
     float: right;
     border-bottom-left-radius: 50px;
@@ -35,8 +35,9 @@
     /* right: -100px; */
 }
 .content{
+    height: 40vh;
     position: absolute;
-    top: 290px;
+    top: 300px;
     padding:0px 30px 10px 30px;
     line-height: 30px;
 }
