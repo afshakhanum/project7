@@ -165,4 +165,10 @@ p{
     .login{
         color: hsl(230, 11%, 40%);
     }
+    .s1{
+        font-size: 1.2rem;
+    }
+    .bt1{
+        font-size: 1.2rem;
+    }
 }
