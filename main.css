@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    width: 100vw;
+}
 .box{
     width: 50vw;
     height: 60vh;
@@ -32,12 +35,12 @@
     background-image: url(images/illustration-devices.svg);
     position: absolute;
     top: 90px;
-    right: -100px;
+    /* right: -100px; */
 }
 .content{
     height: 40vh;
     position: absolute;
-    top: 500px;
+    top: 450px;
     padding:0px 30px 10px 30px;
     line-height: 30px;
 }
@@ -73,7 +76,7 @@ p{
 }
 .btns{
     position: absolute;
-    top: 650px;
+    top: 550px;
     padding: 30px;
     margin-top: 10px;
 }
