@@ -23,7 +23,7 @@
     display: none;
 }
 .img{
-    width: 130vw;
+    width: 100vw;
     height: 40vh;
     background-position: center;
     object-fit: contain;
@@ -32,7 +32,7 @@
     background-image: url(images/illustration-devices.svg);
     position: absolute;
     top: 90px;
-    /* right: -100px; */
+    right: -100px;
 }
 .content{
     height: 40vh;
