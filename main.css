@@ -162,4 +162,7 @@ p{
     .b2{
         font-size: 15px;
     }
+    .login{
+        color: hsl(230, 11%, 40%);
+    }
 }
